@@ -76,6 +76,7 @@ len(cars)
 pip install django
 django-admin startproject webapp
 python manage.py runserver
+python manage.py startapp main
 
 
 
